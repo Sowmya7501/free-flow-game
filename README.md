@@ -1,4 +1,4 @@
-# immitation-free-flow-game
+# free-flow-game
 
 Assuming that you have python installed in your system.
 Preffered version is 3.6 or more.
