@@ -7,4 +7,7 @@ pip install pygame
 
 For more information, visit pygame documentaion 
 https://www.pygame.org/wiki/GettingStarted
+
+
+
 https://www.pygame.org/docs/
