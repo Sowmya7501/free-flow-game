@@ -8,6 +8,9 @@ Install pygame module by this command in cmd:
 pip install pygame
 
 For more information, visit pygame documentaion 
+
+
+
 https://www.pygame.org/wiki/GettingStarted
 
 
